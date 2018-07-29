@@ -43,29 +43,29 @@ Total: 29.83<br/>
 Output 2:
 
 1 imported box of chocolates: 10.50<br/>
-1 imported bottle of perfume: 54.65* <br/>
-Sales Taxes: 7.65* <br/>
-Total: 65.15* <br/>
+*1 imported bottle of perfume: 54.65* *<br/>
+*Sales Taxes: 7.65* <br/>
+*Total: 65.15* <br/>
  
 Output 3:
 
 1 imported bottle of perfume: 32.19<br/>
 1 bottle of perfume: 20.89<br/>
 1 packet of headache pills: 9.75<br/>
-1 imported box of chocolates: 11.85* <br/>
-Sales Taxes: 6.70* <br/>
-Total: 74.68* <br/>
+*1 imported box of chocolates: 11.85* <br/>
+*Sales Taxes: 6.70* <br/>
+*Total: 74.68* <br/>
 
 ================================================ <br/>
 *NOTE: Possibly wrong output. Should be: <br/>
 
-1 imported bottle of perfume: 54.63* <br/>
-Sales Taxes: 7.63* <br/>
-Total: 65.13* <br/>
+1 imported bottle of perfume: 54.63 <br/>
+Sales Taxes: 7.63 <br/>
+Total: 65.13 <br/>
 
 AND
 
-1 imported box of chocolates: 11.81* <br/>
-Sales Taxes: 6.66* <br/>
-Total: 74.64* <br/>
+1 imported box of chocolates: 11.81 <br/>
+Sales Taxes: 6.66 <br/>
+Total: 74.64 <br/>
 
