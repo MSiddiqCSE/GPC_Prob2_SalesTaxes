@@ -56,7 +56,7 @@ Output 3:
 *Sales Taxes: 6.70* *<br/>
 *Total: 74.68* *<br/>
 
-====== <br/>
+------------------------------------------------
 *NOTE: Possibly wrong output. Should be: <br/>
 
 1 imported bottle of perfume: 54.63 <br/>
